@@ -1,16 +1,15 @@
-### Hi there 👋
+### Bienvenue sur mon profil GitHub! 👋
 
-<!--
-**JulienLach/JulienLach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### À propos
 
-Here are some ideas to get you started:
+- Actuellement en foramtion Développeur Web & Web Mobile
+- Envoyez moi un mail : julien.lach@outlook.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Compétences
+
+- Langages de programmation: HTML, CSS, JavaScript (En cours d'apprentissage)
+- Outils : Linux, Git/Github, VsCode, Figma, Notion
+
+### Objectifs
+
+En tant que développeur débutant, mon objectif actuel est de trouver un contrat d'apprentissage pour avril 2024:
