@@ -8,7 +8,7 @@
 ### Compétences
 
 - Langages de programmation: HTML, CSS, JavaScript (En cours d'apprentissage)
-- Outils : Linux, Git/Github, VsCode, Figma, Notion
+- Outils : Linux, Terminal, Git/Github, VsCode, Figma, Notion
 
 ### Objectifs
 
