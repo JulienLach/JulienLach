@@ -12,4 +12,4 @@
 
 ### Objectifs
 
-En tant que développeur débutant, mon objectif actuel est de trouver un contrat d'apprentissage pour avril 2024:
+En tant que développeur débutant, mon objectif actuel est de trouver un contrat d'apprentissage pour avril 2024.
