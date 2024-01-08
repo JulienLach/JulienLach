@@ -2,7 +2,7 @@
 
 ### À propos
 
-- Actuellement en foramtion Développeur Web & Web Mobile
+- Actuellement en formation Développeur Web & Web Mobile
 - Envoyez moi un mail : julien.lach@outlook.com
 
 ### Compétences
