@@ -1,7 +1,6 @@
 ### À propos
 
-- Actuellement en formation Développeur Web & Web Mobile
-- En formation Concepteur Développeur d'application avril 2024
+- Concepteur Développeur d'application chez Alternative Conseils Assistance Industrie
 
 ### Compétences
 
