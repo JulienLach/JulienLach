@@ -4,5 +4,5 @@
 
 ### Compétences
 
-- Langages de programmation: HTML, CSS, JavaScript, PHP/MySQL (En cours d'apprentissage)
-- Outils : Linux, Terminal, Git/Github, VsCode, Figma, Notion
+- HTML, CSS, JavaScript, PHP/MySQL
+- Linux, Terminal, Git/Github, VsCode, Figma, Notion
