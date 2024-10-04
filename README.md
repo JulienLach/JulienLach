@@ -17,4 +17,4 @@
 
 #### Currently working on:
 
-[![EffiTech](https://img.shields.io/badge/EffiTech-100000?style=flat&logo=github&logoColor=white)](https://github.com/JulienLach/EffiTech) EffiTech is a project using React and Node.js to develop a field management application.
+[![EffiTech](https://img.shields.io/badge/EffiTech-100000?style=flat&logo=github&logoColor=white)](https://github.com/JulienLach/EffiTech) EffiTech is a project using React and Node.js to develop a field service management application.
