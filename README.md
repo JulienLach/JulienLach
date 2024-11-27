@@ -1,4 +1,4 @@
-## Working with:
+## Working with :
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
@@ -13,8 +13,8 @@
 ![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Projects
+## Projects :
 
-### Currently working on:
+### Currently working on :
 
 - [EffiTech](https://github.com/JulienLach/EffiTech) is a project that uses React, Node.js, and PostgreSQL to develop a field service management application.
