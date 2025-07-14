@@ -1,6 +1,7 @@
 ## Working with :
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -17,4 +18,4 @@
 
 ### Currently working on :
 
-- [EffiTech](https://github.com/JulienLach/EffiTech) is a project that uses React, Node.js, and PostgreSQL to develop a field service management application.
+- [FicheQS](https://github.com/JulienLach/FicheQS) is a fullstack app for digitizing quality and safety forms, built with React (Vite), Node.js/Express, and PostgreSQL.
