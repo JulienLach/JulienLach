@@ -18,4 +18,4 @@
 
 ### Currently working on :
 
-- [FicheQS](https://github.com/JulienLach/FicheQS) is a fullstack app for digitizing quality and safety forms, built with React (Vite), Node.js/Express, and PostgreSQL.
+- [FicheQS](https://github.com/JulienLach/FicheQS) is a fullstack mobile app for digitizing quality and safety forms, built with React (Vite), Node.js/Express, and PostgreSQL.
