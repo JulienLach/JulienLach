@@ -14,7 +14,7 @@
 ![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Projects :
+## Side projects :
 
 ### Currently working on :
 
