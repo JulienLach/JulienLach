@@ -1,5 +1,4 @@
 ## Working with
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
@@ -17,9 +16,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-111827?style=flat&logo=anthropic&logoColor=white)
-
+![CLI](https://img.shields.io/badge/CLI-111827?style=flat&logo=gnubash&logoColor=white)
 
 ## Side projects
-
 ### Currently working on :
-- [MeetLog](https://github.com/JulienLach/MeetLog) capture and summarize sprint meetings and dev stand-ups.
+- [**MeetLog**](https://github.com/JulienLach/MeetLog) 💻 Capture and summarize sprint meetings and dev stand-ups
+
+### Other projects :
+- [**FicheQS**](https://github.com/JulienLach/FicheQS) 📝 Fullstack PWA mobile first app for digitizing quality and safety forms
+- [**EffiTech**](https://github.com/JulienLach/EffiTech) 🔧 Field service management app for learning Node.js, React, PostgreSQL and Docker
