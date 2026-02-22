@@ -17,6 +17,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-111827?style=flat&logo=anthropic&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-111827?style=flat&logo=gnubash&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=7C3AED&color=white)
 
 ## Side projects
 ### Currently working on :
