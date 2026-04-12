@@ -22,8 +22,8 @@
 ## Side projects
 ### Currently working on :
 - 💻 [**MeetLog**](https://github.com/JulienLach/MeetLog) - Capture and summarize sprint meetings and dev stand-ups
-- 📸  [**Mocklify**](https://mocklify.ovh) - Free online screenshot mockup generator with macOS frame
 
 ### Other projects :
+- 📸  [**Mocklify**](https://mocklify.ovh) - Free online screenshot mockup generator with macOS frame
 - 📝 [**FicheQS**](https://github.com/JulienLach/FicheQS) - Fullstack PWA mobile first app for digitizing quality and safety forms
 - 🔧 [**EffiTech**](https://github.com/JulienLach/EffiTech) - Field service management app for learning Node.js, React, PostgreSQL and Docker
