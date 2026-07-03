@@ -10,6 +10,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 ![Figma](https://img.shields.io/badge/Figma-800080.svg?style=flat&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=flat&logo=gnubash&logoColor=white)
@@ -22,9 +23,10 @@
 
 ## Side projects
 ### Currently working on :
-- 🛠️ [**Axelor MCP**](https://github.com/JulienLach/axelor-mcp) - MCP server connecting Claude Desktop to Axelor through natural language commands
+- Learning MCPs
 
 ### Other projects :
+- 🛠️ [**Axelor MCP**](https://github.com/JulienLach/axelor-mcp) - MCP server connecting Claude Desktop to Axelor through natural language commands
 - 💻 [**MeetLog**](https://github.com/JulienLach/MeetLog) - Capture and summarize sprint meetings and dev stand-ups
 - 📸  [**Mocklify**](https://mocklify.ovh) - Free online screenshot mockup generator with macOS frame
 - 📝 [**Audit**](https://github.com/JulienLach/Audit) - Fullstack PWA mobile first app for digitizing safety forms
