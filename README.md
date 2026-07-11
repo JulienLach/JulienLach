@@ -23,7 +23,7 @@
 
 ## Side projects
 ### Currently working on :
-- Learning more MCPs integrations
+- Learning more about MCPs integrations
 
 ### Other projects :
 - 🛠️ [**Axelor MCP**](https://github.com/JulienLach/axelor-mcp) - MCP server connecting Claude Desktop to Axelor through natural language commands
