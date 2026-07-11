@@ -8,7 +8,6 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-800080.svg?style=flat&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=flat&logo=portainer&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
