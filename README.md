@@ -18,8 +18,7 @@
 ![Ansible](https://img.shields.io/badge/Ansible-white?style=flat&logo=ansible&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-111827?style=flat&logo=anthropic&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-111827?style=flat&logo=gnubash&logoColor=white)
+![Claude Code CLI](https://img.shields.io/badge/Claude_Code_CLI-111827?style=flat&logo=anthropic&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=7C3AED&color=white)
 
 ## Side projects
