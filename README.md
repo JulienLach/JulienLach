@@ -22,10 +22,10 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
 
 ## Side projects
-### Currently working on :
+### Currently working on
 - Learning more about MCPs integrations
 
-### Other projects :
+### Others
 - 🛠️ [**Axelor MCP**](https://github.com/JulienLach/axelor-mcp) - MCP server connecting Claude Desktop to Axelor through natural language commands
 - 💻 [**MeetLog**](https://github.com/JulienLach/MeetLog) - Capture and summarize sprint meetings and dev stand-ups
 - 📸  [**Mocklify**](https://mocklify.ovh) - Free online screenshot mockup generator with macOS frame
