@@ -23,10 +23,9 @@
 
 ## Side projects
 ### Currently working on
-- Learning more about MCPs integrations
+- 🛠️ [**Axelor MCP**](https://github.com/JulienLach/axelor-mcp) - MCP server connecting Claude Desktop to Axelor through natural language commands
 
 ### Others
-- 🛠️ [**Axelor MCP**](https://github.com/JulienLach/axelor-mcp) - MCP server connecting Claude Desktop to Axelor through natural language commands
 - 💻 [**MeetLog**](https://github.com/JulienLach/MeetLog) - Capture and summarize sprint meetings and dev stand-ups
 - 📸  [**Mocklify**](https://mocklify.ovh) - Free online screenshot mockup generator with macOS frame
 - 📝 [**Audit**](https://github.com/JulienLach/Audit) - Fullstack PWA mobile first app for digitizing safety forms
