@@ -1,4 +1,4 @@
-## Working with
+### Working with
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
@@ -21,12 +21,6 @@
 ![Claude Code CLI](https://img.shields.io/badge/Claude_Code_CLI-111827?style=flat&logo=anthropic&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
 
-## Side projects
-### Currently working on
+### Side projects
 - 🛠️ [**Axelor MCP**](https://github.com/JulienLach/axelor-mcp) - MCP server connecting Claude Desktop to Axelor through natural language commands
-
-### Others
-- 💻 [**MeetLog**](https://github.com/JulienLach/MeetLog) - Capture and summarize sprint meetings and dev stand-ups
-- 📸  [**Mocklify**](https://mocklify.ovh) - Free online screenshot mockup generator with macOS frame
 - 📝 [**Audit**](https://github.com/JulienLach/Audit) - Fullstack PWA mobile first app for digitizing safety forms
-- 🔧 [**EffiTech**](https://github.com/JulienLach/EffiTech) - Field service management app for learning Node.js, React, PostgreSQL and Docker
