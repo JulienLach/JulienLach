@@ -22,5 +22,4 @@
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white)
 
 ### Side projects
-- 🛠️ [**Axelor MCP**](https://github.com/JulienLach/axelor-mcp) - MCP server connecting Claude Desktop to Axelor through natural language commands
-- 📝 [**Audit**](https://github.com/JulienLach/Audit) - Fullstack PWA mobile first app for digitizing safety forms
+- [**Axelor MCP**](https://github.com/JulienLach/axelor-mcp) - MCP server connecting Claude Desktop to Axelor through natural language commands
